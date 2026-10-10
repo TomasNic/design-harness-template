@@ -1,0 +1,13 @@
+:root {
+  --color-paper: #f5f3ed;
+  --color-surface: #eae8df;
+  --color-ink: #252922;
+  --color-muted: #66685e;
+  --color-accent: #365e48;
+  --color-highlight: #d9e6c8;
+  --color-line: #d6d7ce;
+  --color-white: #ffffff;
+  --font-body: 'Helvetica Neue', Helvetica, sans-serif;
+  --font-display: Georgia, 'Times New Roman', serif;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+}
